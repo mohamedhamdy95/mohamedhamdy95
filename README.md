@@ -44,7 +44,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-hamdy-6662b3168/"><img src="https://img.shields.io/badge/-Amr%20Ahmed%20Mohamed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-hamdy-6662b3168/"><img src="https://img.shields.io/badge/-Mohamed%20Hamdy%20Mohamed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mohamed.hamdy9995@gmail.com"><img src="https://img.shields.io/badge/-mohamed.hamdy9995@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 <!--
