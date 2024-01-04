@@ -3,7 +3,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Modern Academy.\
@@ -41,7 +41,7 @@
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamed-hamdy-6662b3168/"><img src="https://img.shields.io/badge/-Mohamed%20Hamdy%20Mohamed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
